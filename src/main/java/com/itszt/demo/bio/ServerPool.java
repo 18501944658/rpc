@@ -1,7 +1,5 @@
 package com.itszt.demo.bio;
 
-import jdk.nashorn.internal.objects.NativeUint8Array;
-
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
